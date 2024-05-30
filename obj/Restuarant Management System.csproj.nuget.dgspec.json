@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\RestaurantManagement\\Restaurant-Management-System\\Restuarant Management System.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\tasnim\\Restuarant Management System\\Restuarant Management System.csproj": {}
   },
   "projects": {
-    "E:\\RestaurantManagement\\Restaurant-Management-System\\Restuarant Management System.csproj": {
+    "C:\\Users\\Hp\\Desktop\\tasnim\\Restuarant Management System\\Restuarant Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\RestaurantManagement\\Restaurant-Management-System\\Restuarant Management System.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\tasnim\\Restuarant Management System\\Restuarant Management System.csproj",
         "projectName": "Restuarant Management System",
-        "projectPath": "E:\\RestaurantManagement\\Restaurant-Management-System\\Restuarant Management System.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\RestaurantManagement\\Restaurant-Management-System\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\tasnim\\Restuarant Management System\\Restuarant Management System.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\tasnim\\Restuarant Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Oracle.ManagedDataAccess": {
+              "target": "Package",
+              "version": "[23.4.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[23.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
