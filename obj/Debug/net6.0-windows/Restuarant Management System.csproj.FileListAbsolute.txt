@@ -1,0 +1,34 @@
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Restuarant Management System.exe
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Restuarant Management System.deps.json
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Restuarant Management System.runtimeconfig.json
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Restuarant Management System.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Restuarant Management System.pdb
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\Oracle.ManagedDataAccess.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Formats.Asn1.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant_Management_System.EmployeeForm.resources
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant_Management_System.Form1.resources
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant_Management_System.OrderPage.resources
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.AssemblyInfo.cs
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.csproj.CopyComplete
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\refint\Restuarant Management System.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.pdb
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.genruntimeconfig.cache
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\ref\Restuarant Management System.dll
