@@ -32,3 +32,5 @@ C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows
 C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.pdb
 C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant Management System.genruntimeconfig.cache
 C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\ref\Restuarant Management System.dll
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant_Management_System.Form2.resources
+C:\Users\Hp\Desktop\tasnim\Restuarant Management System\obj\Debug\net6.0-windows\Restuarant_Management_System.menu.resources
